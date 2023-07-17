@@ -1,12 +1,11 @@
 <h1 align="center">Project Netflix Clone</h1>
 <h3 align="center">Netflix Clone Using HTML, CSS, JavaScript</h3>
-
 <a href='https://www.linkpicture.com/view.php?img=LPic64b4bf16c558e1320689441'><img src='https://www.linkpicture.com/q/1_249.png' type='image'></a><br>
 <a href='https://www.linkpicture.com/view.php?img=LPic64b4bf495b884551584886'><img src='https://www.linkpicture.com/q/2_745.png' type='image'></a><br>
 <a href='https://www.linkpicture.com/view.php?img=LPic64b4bf65634b6740492369'><img src='https://www.linkpicture.com/q/3_23.png' type='image'></a>
 - Features **Signup Page, Profile Page, Instagram feed page**
 
-- Features **follow/Like/comment/Share Button, Unfollow Buttons, Story Scroll, Users Profile,**
+- Features **Follow/Like/comment/Share Button, Unfollow Buttons, Story Scroll, Users Profile,**
 
 - Email **architwork64@gmail.com**
 
